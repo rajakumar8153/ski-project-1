@@ -1,0 +1,17 @@
+body {
+    background-image: url("Screenshot (22).png");
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+h1 {
+    font-family: Lucida Handwriting,cursive;
+    color: rgb(12, 2, 1);
+}
+input {
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+button {
+    border-radius: 20px;
+    padding: 5px 20px;
+}
